@@ -12,7 +12,7 @@ This package supports YouTube Videos & Playlists, Spotify Songs & Playlists, App
 Package from version v7.0.0 is fully maintained by [SushiBtw](https://github.com/SushiBtw).
 
 ### Requirements:
-- [Discord.js v13](https://www.npmjs.com/package/discord.js),
+- [Discord.js v14](https://www.npmjs.com/package/discord.js),
 - [Node.JS v16](https://nodejs.org/),
 
 # Installation
